@@ -7,7 +7,6 @@
 ###
 
 <h2 align="left">🌠 About me</h2>
-
 ###
 <p align="left">I'm a Frontend Developer focused on creating clean and responsive user interfaces.<br>📚 I'm continuously learning and improving my skills.<br>🎯 Goals: Reach a professional level in frontend development.  <br>🎲 Fun fact: I’m not a fan of anything ordinary or superficial.</p>
 
